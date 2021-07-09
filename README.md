@@ -1,4 +1,4 @@
-# Trails 1.0
+# Rede Social (Trails 1.0)
 Este projeto tem como objetivo ser uma aplicação  modelo (_blueprint_) para as disicplinas de Análise e Projeto Orientado a Objeto e Arquitetura de Software.
 
 Atualmente o projeto não possui uma implementação, mas está aberto a receber contribuições de código que representem as especificação aqui presente.
